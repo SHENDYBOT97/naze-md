@@ -55,7 +55,7 @@ global.limitawal = {
 }
 
 // Fake
-global.thumb = fs.readFileSync('./media/image/naze.jpg')
+global.thumb = fs.readFileSync('./media/image/20220106_151143.png')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 
 // Url
