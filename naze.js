@@ -1011,7 +1011,7 @@ break
             }
             break
             case 'sc': {
-                m.reply('https://wa.me/6285875158363')
+                m.reply('https://wa.me/6283861760785')
             }
             break		 
             case 'subsyt': {
