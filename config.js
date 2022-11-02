@@ -66,7 +66,7 @@ global.mygc = "https://chat.whatsapp.com/FAYTO7MzpNrJ8HDyexBZvb"
 
 // Engak Ngaruh, Belum Kepasang
 global.botname = 'Shendy BOT'
-global.akulaku = 'Bot By Naze'
+global.akulaku = 'Bot By Shendy'
 global.ytname = 'YT SHENDY' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
